@@ -96,19 +96,6 @@ Feature importance and model explainability were analysed using SHAP values and 
 
 ---
 
-## Repository Structure
-
-```
-├── notebooks/
-├── data/
-├── images/
-├── models/
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Future Improvements
 
 - Incorporate injury history.
